@@ -8,7 +8,7 @@ public class Tecnico extends Operario {
 
 	@Override
 	public String toString() {
-		return super.toString() +  "-> Operario -> Oficial";
+		return super.toString() +  "-> Operario -> Tecnico";
 			//super. se refiere directamente al padre
 	}
 
